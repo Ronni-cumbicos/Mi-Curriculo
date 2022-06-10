@@ -7,35 +7,34 @@ editor: visual
 
 ## Información de Contacto
 
-## Nombres Ronni Santiago
+![](media/B612_20210423_160057_314.jpg){fig-align="right" width="125"}
 
-## Apellidos Cumbicos Cevallos
+### Nombres Ronni Santiago
 
-## Nacionalidad Ecuatoriana
+### Apellidos Cumbicos Cevallos
 
-## Cdl Ciudadania 1105114514
+### Nacionalidad Ecuatoriana
 
-## Fecha de Nacimiento 01/10/1994
+### Cdl Ciudadania 1105114514
 
-## Lugar de Nacimiento Gonzanamá
+### Fecha de Nacimiento 01/10/1994
 
-## Estado Civil Soltero
+### Lugar de Nacimiento Gonzanamá
 
-## Edad 27 años
+### Estado Civil Soltero
 
-## Dirección Loja/Gonzanamá
+### Edad 27 años
 
-## Teléfono 0987527403
+### Dirección Loja/Gonzanamá
+
+### Teléfono 0987527403
 
 ## FORMACIÓN ACADEMICA
 
 ## PRIMARIA
 
-## Escuela Fiscal Mixta "Gral. Manuel Serrano"
+### Escuela Fiscal Mixta "Gral. Manuel Serrano"
 
-## SECUNDARIA
+### SECUNDARIA
 
-## Colegio Fiscomisional "San Felipe"
-
-
-
+### Colegio Fiscomisional "San Felipe"
